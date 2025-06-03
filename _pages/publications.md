@@ -6,6 +6,10 @@ classes:
   - pubimage-hover-container
 permalink: /publications/
 ---
+<a href="https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao" class="text-link">
+Google Scholar 
+</a>
+
 <div class="publication-entry">
   <div class="publication-text">
     <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2023.2279845" class="text-link">
