@@ -1,12 +1,12 @@
-title: My Test Site
-description: Just a test
+title: Chothani lab website
+description: Lab details
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-url: "https://dev1113.github.io"   # ← your GitHub Pages base URL
-baseurl: "/LabWebsite"              # ← only if you're using a project repo (not needed for user/organization site)
+url: "https://soniachothani.github.io"   # ← your GitHub Pages base URL
+baseurl: ""              # ← only if you're using a project repo (not needed for user/organization site)
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
