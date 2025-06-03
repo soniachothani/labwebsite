@@ -3,13 +3,9 @@ layout: single
 title: "Research"
 permalink: /research/
 ---
-**Research Area 1**
+**Translation dysregulation in disease**
 
-Placeholder text
+**Discovering unannotated open reading frames**
 
-
-**Research Area 2**
-
-Placeholder text
 
 
